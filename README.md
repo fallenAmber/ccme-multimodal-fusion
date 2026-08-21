@@ -43,5 +43,3 @@ The repository contains experiments for two RGB-thermal domains:
 │   └── dataset_utils.py
 ├── scripts/
 │   └── dedup_split_check.py
-├── outputs/
-└── checkpoints/
