@@ -31,7 +31,7 @@ The repository contains experiments for two RGB-thermal domains:
 
 ## Repository Structure
 
-text
+```text
 .
 ├── README.md
 ├── requirements.txt
