@@ -1,0 +1,27 @@
+# Core numerical and ML stack
+numpy==2.5.1
+pandas==3.0.0
+scipy
+scikit-learn==1.7.2
+
+# Deep learning
+torch==2.10.0
+torchvision==0.25.0
+
+# Visualization
+matplotlib==3.10.8
+seaborn
+
+# Image processing
+Pillow
+opencv-python
+scikit-image
+tifffile
+imagecodecs
+
+# Explainability
+lime
+shap
+
+# Utilities
+tqdm
